@@ -1,0 +1,5 @@
+Sheet1$.Ficha
+Sheet1$.Nombre
+Sheet1$.Escuela
+Sheet1$.Especialidad
+Sheet1$.Organización
